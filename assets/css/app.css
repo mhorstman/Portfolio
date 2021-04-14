@@ -57,7 +57,8 @@ footer a {
 .custom-card {
   transform: translateY(-150px);
   text-align: center;
-  width:500px;
+  /* width:500px; */
+  width:600px;
   max-width: 90%;
   margin: 0 auto;
   
@@ -96,7 +97,7 @@ footer a {
 }
 
 .card-text {
-  line-height: 2;
+  line-height: 1.5;
 }
 
 .card-icon{
